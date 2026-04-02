@@ -11,7 +11,8 @@ This Android application fetches the current device location (Latitude and Longi
 - Runtime permission handling
 - Simple and user-friendly interface
 
----
+--
+
 
 ## 🛠️ Technologies Used
 - Java
@@ -24,13 +25,16 @@ This Android application fetches the current device location (Latitude and Longi
 - Android Studio (latest version)
 - Android device or emulator
 - Minimum SDK: API 21+
-
+  
 ---
 
 ## 🔐 Permissions Used
 ```xml
+
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
 <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
 
-Output ScreenSort:
-![img.png](img.png)
+
+```
+## 🔐 Screenshot output:
+![img_1.png](img_1.png)
